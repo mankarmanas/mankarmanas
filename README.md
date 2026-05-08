@@ -100,7 +100,7 @@
 <div align="center">
 <h3>🏆 Adaptus — Adaptive AI Learning Platform</h3>
 <img src="https://img.shields.io/badge/%F0%9F%8F%86%201st%20Runner--Up-Pace%20%C3%97%20MemVerge%20Hackathon%202025-FFD700?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Built%20in-24%20Hours-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Built%20in-5%20Hours-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Demo%20Audience-100%2B%20Attendees-38bdf8?style=for-the-badge"/>
 </div>
 
