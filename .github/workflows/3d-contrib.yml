@@ -32,5 +32,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "auto: update 3D contribution calendar"
+            git pull --rebase origin main
             git push
           fi
