@@ -207,8 +207,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mankarmanas&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mankarmanas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mankarmanas&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mankarmanas&theme=tokyonight"/>
 
 </div>
 
