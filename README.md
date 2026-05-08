@@ -208,7 +208,7 @@
 <div align="center">
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mankarmanas&theme=tokyonight"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mankarmanas&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mankarmanas&theme=tokyonight&exclude=javascript,typescript,html,css,scss"/>
 
 </div>
 
