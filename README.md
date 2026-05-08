@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1b27,100:0f3460&height=210&section=header&text=Manas%20Mankar&fontSize=78&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20CS%20%40%20Pace%20University&descAlignY=58&descSize=19&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1b27,100:0f3460&height=210&section=header&text=Manas%20Mankar&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20CS%20%40%20Pace%20University&descAlignY=58&descSize=19&descColor=38bdf8" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+intelligent+%26+scalable+applications+%F0%9F%9A%80;RAG+Models+%7C+LangChain+%7C+LLM+Orchestration+%F0%9F%A4%96;Full-Stack+MERN+%7C+FastAPI+%7C+Python;%F0%9F%8F%86+1st+Runner-Up+%40+Pace+%C3%97+MemVerge+Hackathon+2025)](https://git.io/typing-svg)
 
@@ -93,15 +93,110 @@
 
 ## 🚀 Featured Projects
 
+---
+
 <div align="center">
-
-| 🏷️ Project | 📝 Description | 🔧 Stack |
-|:---:|:---|:---:|
-| 🏆 **Adaptus** | *1st Runner-Up* — Adaptive AI study platform that dynamically routes between 3 LLM providers (OpenAI, Anthropic, Google). Persistent learner memory via MemMachine. Improved lesson relevance by **~40%** across sessions | `Python` `FastAPI` `MemMachine` `Multi-LLM` |
-| 💊 **PharmaXpert** | Full-stack pharmacy management system handling **5,000+ transactions**. Inventory, prescriptions, auth & sales tracking. Cut manual work by **~60%** | `MERN` `MongoDB` `Node.js` `React` |
-| 📸 **Momentify** | Personal memory archive with **8+ RESTful APIs**, Cloudinary image storage (up to 10 images/entry). Achieved **100% image-DB separation** & **~35%** faster queries | `MERN` `Express` `Cloudinary` |
-
+<h3>🏆 Adaptus — Adaptive AI Learning Platform</h3>
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%201st%20Runner--Up-Pace%20%C3%97%20MemVerge%20Hackathon%202025-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Built%20in-24%20Hours-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Demo%20Audience-100%2B%20Attendees-38bdf8?style=for-the-badge"/>
 </div>
+
+> An intelligent study platform that **dynamically routes each learning session** to the most suitable LLM (OpenAI, Anthropic, or Google AI) based on the learner's profile — delivering truly personalized, adaptive education.
+
+**✨ Key Features:**
+- 🧠 **Persistent Learner Memory** — uses **MemMachine** to remember learning style, pace & weak areas across all sessions
+- 🔀 **Dynamic LLM Routing** — real-time selection across 3 AI providers via a modular **Python FastAPI** backend
+- 💬 **Interactive Lesson Delivery** — real-time feedback loops with lightweight HTML/CSS/JS frontend
+- 📡 **RESTful API Architecture** — CORS-configured, provider-swappable modular design for fast iteration
+
+**📊 Impact:**
+| Metric | Result |
+|--------|--------|
+| Lesson relevance across repeat sessions | **↑ ~40%** |
+| LLM provider experimentation time | **↓ 3x faster** |
+| Providers integrated in 24 hrs | **3 (OpenAI · Anthropic · Google)** |
+
+**🔧 Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![MemMachine](https://img.shields.io/badge/MemMachine-FF6B6B?style=flat-square&logoColor=white)
+![HTML/CSS/JS](https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mankarmanas)
+
+---
+
+<div align="center">
+<h3>💊 PharmaXpert — Full-Stack Pharmacy Management System</h3>
+<img src="https://img.shields.io/badge/Transactions%20Supported-5%2C000%2B-4EA94B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Manual%20Work%20Reduced-%7E60%25-38bdf8?style=for-the-badge"/>
+</div>
+
+> A production-grade **MERN pharmacy management platform** automating end-to-end pharmacy operations — from inventory tracking to prescription workflows and financial reporting.
+
+**✨ Key Features:**
+- 📦 **Inventory Management** — real-time medication tracking with low-stock alerts, preventing stockouts
+- 📋 **Prescription Module** — digital prescription intake, processing, and history logging
+- 🔐 **Secure Authentication** — JWT-based role access for pharmacists, admins, and staff
+- 💰 **Sales & Reporting Dashboard** — full transaction history, revenue analytics, and financial visibility
+- ⚡ **REST API Backend** — Node.js + Express powering all business logic with MongoDB Atlas
+
+**📊 Impact:**
+| Metric | Result |
+|--------|--------|
+| Transactions handled | **5,000+** |
+| Manual operational effort | **↓ ~60%** |
+| Stockout incidents | **Significantly reduced** |
+
+**🔧 Stack:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mankarmanas)
+
+---
+
+<div align="center">
+<h3>📸 Momentify — Personal Memory Archive App</h3>
+<img src="https://img.shields.io/badge/RESTful%20APIs-8%2B%20Built-a78bfa?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Image--DB%20Separation-100%25-38bdf8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Query%20Performance-%7E35%25%20Faster-4EA94B?style=for-the-badge"/>
+</div>
+
+> A full-stack **MERN application** for preserving personal memories — log events, tag friends, write descriptions, and attach up to 10 images per memory using scalable cloud storage.
+
+**✨ Key Features:**
+- 🖼️ **Multi-Image Upload** — up to 10 images per memory entry, stored via **Cloudinary** (zero binary data in MongoDB)
+- 👥 **Friends Tagging** — attach people to each memory for social context and filtering
+- 📝 **Rich Memory Entries** — title, date, description, and friend metadata per entry
+- 🚀 **8+ RESTful APIs** — full CRUD operations for memories and images via Express + Node.js
+- 🗄️ **Clean DB Architecture** — 100% image-URL separation from document store, improving performance
+
+**📊 Impact:**
+| Metric | Result |
+|--------|--------|
+| RESTful APIs built | **8+** |
+| Database query performance | **↑ ~35% faster** |
+| Image-DB separation | **100%** via Cloudinary |
+
+**🔧 Stack:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mankarmanas)
+
+---
 
 ---
 
