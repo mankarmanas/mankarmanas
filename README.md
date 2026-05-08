@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1b27,100:0f3460&height=210&section=header&text=Manas%20Mankar&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20CS%20%40%20Pace%20University&descAlignY=58&descSize=19&descColor=38bdf8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1b27,100:0f3460&height=210&section=header&text=Manas%20Mankar&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20CS%20%40%20Pace%20University&descAlignY=58&descSize=19&descColor=FF8C00" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+intelligent+%26+scalable+applications+%F0%9F%9A%80;RAG+Models+%7C+LangChain+%7C+LLM+Orchestration+%F0%9F%A4%96;Full-Stack+MERN+%7C+FastAPI+%7C+Python;%F0%9F%8F%86+1st+Runner-Up+%40+Pace+%C3%97+MemVerge+Hackathon+2025)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=750&lines=Building+intelligent+%26+scalable+applications+%F0%9F%9A%80;RAG+Models+%7C+LangChain+%7C+LLM+Orchestration+%F0%9F%A4%96;Full-Stack+MERN+%7C+FastAPI+%7C+Python;%F0%9F%8F%86+1st+Runner-Up+%40+Pace+%C3%97+MemVerge+Hackathon+2025)](https://git.io/typing-svg)
 
 <br/>
 
