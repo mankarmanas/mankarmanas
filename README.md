@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-mankar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manasmankar.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mankar_manas/)
 [![Email](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasmahendra5@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mankarmanas)
 
@@ -263,12 +264,48 @@ manas = {
 
 ---
 
+---
+
+## 🎵 My Spotify Playlist — What I Vibe To
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Now_Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+
+</div>
+
+### 🎤 Justin Bieber Favs
+
+<div align="center">
+
+| # | Song | Artist | Listen |
+|:-:|------|--------|:------:|
+| 1 | 🎶 **Beauty and a Beat** | Justin Bieber ft. Nicki Minaj | [![Spotify](https://img.shields.io/badge/Play-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) |
+| 2 | 🎶 **Stay** | The Kid LAROI & Justin Bieber | [![Spotify](https://img.shields.io/badge/Play-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) |
+| 3 | 🎶 **EVERYTHING HALLELUJAH** | Justin Bieber | [![Spotify](https://img.shields.io/badge/Play-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ) |
+
+</div>
+
+### 🎵 Marathi Favs
+
+<div align="center">
+
+| # | Song | Artist | Listen |
+|:-:|------|--------|:------:|
+| 4 | 🎶 **Kitida Navyane** | Aarya Ambekar & Mandar Aapte | [![Spotify](https://img.shields.io/badge/Play-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/3AfiaGRrAIIRs2M8XaLkNp) |
+| 5 | 🎶 **Zindagi Zindagi** | Sachin Pilgaonkar & Sumeet Raghvan | [![Spotify](https://img.shields.io/badge/Play-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/1atBjC8A1QgcAPXF4k8OOi) |
+
+</div>
+
+---
+
 <div align="center">
 
 ## 📬 Let's Connect & Build Something Cool
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-mankar)
 [![Portfolio](https://img.shields.io/badge/Visit_my_Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manasmankar.com)
+[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mankar_manas/)
 [![Email](https://img.shields.io/badge/Send_an_Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasmahendra5@gmail.com)
 
 <br/>
