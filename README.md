@@ -240,6 +240,16 @@
 
 ---
 
+## 🌐 3D Contribution Calendar
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Contribution Calendar"/>
+
+</div>
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -263,6 +273,16 @@ manas = {
 ```
 
 ---
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+[![readme-quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 ---
 

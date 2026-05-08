@@ -1,0 +1,30 @@
+name: Generate 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: mankarmanas
+          SETTING_JSON: '{"githubUserName":"mankarmanas","startForegroundColor":"#39D353","endForegroundColor":"#FF9F43","bgColor":"#0d1117","textColor":"#ffffff","type":"GitHubDark","contributionColorArray":["#0d1117","#0e4429","#006d32","#26a641","#39d353"]}'
+
+      - name: Commit & Push
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add -A .
+          git diff --staged --quiet || (git commit -m "auto: update 3D contribution calendar" && git push)
